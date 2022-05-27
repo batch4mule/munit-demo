@@ -48,6 +48,6 @@ output application/json
 			</otherwise>
 		
 </choice>
-		<logger level="INFO" doc:name="Logger" doc:id="a4673afc-d42b-4e00-b10a-d7f4cee7deb9" message="Added new logger for Repository Github"/>
+		<logger level="INFO" doc:name="Logger" doc:id="a4673afc-d42b-4e00-b10a-d7f4cee7deb9" message="Added new logger for Repository Github for feature add-employee"/>
 	</flow>
 </mule>
